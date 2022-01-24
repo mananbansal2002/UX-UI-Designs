@@ -1,6 +1,75 @@
 # UX-UI-Designs
 
 
+
+<h2>Landing Page Design</h2>
+    
+<br><br>
+https://www.figma.com/file/EVOW1Y2GtQ6FpC6sH8KJtX/Untitled?node-id=0%3A1
+<br>
+
+
+![Screenshot (109)](https://user-images.githubusercontent.com/71920970/150732700-27af5f3d-94d2-42ee-bb67-5a532153ac68.png)
+
+
+
+<h2>Image Company Website</h2>
+    
+<br><br>
+https://www.figma.com/file/mmgLWU675AV1mDtmhZXhS9/Untitled
+<br>
+
+![Screenshot (110)](https://user-images.githubusercontent.com/71920970/150732965-2c7ffd09-2863-41a9-8d06-d9110b7667a6.png)
+
+
+<h2>Web Designing Start Up</h2>
+    
+<br><br>
+https://www.figma.com/file/giHYZzz9Ihr4I3si8ePaG0/Untitled
+<br>
+
+
+![Screenshot (111)](https://user-images.githubusercontent.com/71920970/150733210-5cbc10e0-b0e4-40fa-af86-2fd6507b85a5.png)
+
+
+<h2>Portfolio Website Design</h2>
+    
+<br><br>
+
+https://www.figma.com/file/zAZOpKQJ5BG8cEADW3xvot/Untitled
+
+<br>
+
+![Screenshot (112)](https://user-images.githubusercontent.com/71920970/150733345-6d839c8f-f417-48d3-a6d0-e53cc71bb68b.png)
+
+
+
+<h2>Neumorphic Movie Website Design</h2>
+    
+<br><br>
+
+https://www.figma.com/file/4D4LJarVuR8YYUJbEXdE7a/Untitled
+
+<br>
+
+![Screenshot (113)](https://user-images.githubusercontent.com/71920970/150733482-44e5e66e-edc0-49d3-89c2-0c14c2d6640b.png)
+
+
+
+
+<h2>Coffee Shop Website</h2>
+    
+<br><br>
+
+https://www.figma.com/file/kwjAlspdIkxCT4P3u1iCc8/Untitled
+
+<br>
+
+![Screenshot (114)](https://user-images.githubusercontent.com/71920970/150733686-4228a8f1-b0b0-491e-b036-23d7e0d5bc3e.png)
+
+
+
+
 <h2>A Crypto website design</h2>
     
 <br><br>
