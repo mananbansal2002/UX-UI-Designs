@@ -1,5 +1,61 @@
 <h1> UX-UI-Designs
 </h1>
+    
+   
+
+<br><hr><br>
+<h2>Landing Page Design</h2>
+    
+<br><br>
+ https://www.figma.com/file/e6jjJ3ltuqXbDcbKUIzMpU/Untitled
+<br>
+
+
+https://user-images.githubusercontent.com/71920970/151701729-7e0045b8-45a9-4f1c-a4ce-f25053c35b60.mp4
+
+
+
+
+   
+
+
+
+
+
+
+
+
+<br><hr><br>
+<h2>Company Website Design</h2>
+    
+<br><br>
+   https://www.figma.com/file/RDd1bNx83bsbJStV5aGSml/Untitled?node-id=0%3A1
+<br>
+![Screenshot (120)](https://user-images.githubusercontent.com/71920970/151701754-c8cc276b-69ea-4c90-b6c4-f6e3c1136199.png)
+
+
+
+ 
+    
+    
+
+<br><hr><br>
+<h2>Landing Page Design</h2>
+    
+<br><br>
+https://www.figma.com/file/ajdPvfJGTReJlfbpSZCtuE/Untitled?node-id=0%3A1
+<br>
+
+
+![Screenshot (119)](https://user-images.githubusercontent.com/71920970/151701561-845f3bdc-8659-4861-b64e-febadd61a0bb.png)
+
+
+
+
+    
+    
+
+</h1>
 
 <br><hr><br>
 <h2>Landing Page Design</h2>
